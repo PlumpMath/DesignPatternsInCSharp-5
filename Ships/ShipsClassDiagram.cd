@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Ships.AircraftСarrier" Collapsed="true">
+    <Position X="0.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AircraftСarrier.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ships.AmphibiousAssaultShip" Collapsed="true">
+    <Position X="7.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AmphibiousAssaultShip.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ships.Corvette" Collapsed="true">
+    <Position X="9.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Corvette.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ships.Cruiser" Collapsed="true">
+    <Position X="2.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Cruiser.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ships.LightAircraftCarrier" Collapsed="true">
+    <Position X="0.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>LightAircraftCarrier.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ships.Ship" Collapsed="true">
+    <Position X="5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Ship.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ships.Submarine" Collapsed="true">
+    <Position X="5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Submarine.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ships.Warship" Collapsed="true">
+    <Position X="5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Warship.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
